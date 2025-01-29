@@ -175,3 +175,5 @@ out/
 
 *.db
 *.json
+
+setup.py
